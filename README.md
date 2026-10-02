@@ -21,7 +21,7 @@ Projet conçu en équipe avec : [prénoms des coéquipiers]
 
 ![Écran principal](ecran-principal.jpg)
 
-- Direction artistique : couleurs #......, #......, #...... et police ...
+- Direction artistique : couleurs #F91A5A, #00388A, #3ACA51 et police Bebas Neue 
 - Sur téléphone et sur ordinateur : ...
 
 ## Le plan de développement
