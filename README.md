@@ -1,3 +1,5 @@
+# why are you reading this, it's college work, here's your cookie for wandering so deep in github for no reasons🍪
+
 # Nom de l'application
 
 Projet conçu en équipe avec : [prénoms des coéquipiers]
